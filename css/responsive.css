@@ -64,6 +64,7 @@
  .about-section .about-img
  {
      padding-bottom: 30px;
+     width: 100%;
  }
 
  .about-section .timeline .timeline-item:nth-child(odd)
@@ -121,4 +122,5 @@
     {
         font-size: 40px;
     }
+
 }
